@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "store": "libs/store",
+    "storm-store": "apps/storm-store",
+    "storm-store-e2e": "apps/storm-store-e2e"
+  }
+}
